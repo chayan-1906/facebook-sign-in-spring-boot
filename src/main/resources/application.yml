@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: fcbk-sign-in-spring-boot
+  security:
+    oauth2:
+      client:
+        registration:
+          facebook:
+            clientId: 728611295688157
+            clientSecret: a8d0cdc5175ede6f421e213496077ac4
+            accessTokenUri: https://graph.facebook.com/oauth/access_token
+            userAuthorizationUri: https://www.facebook.com/dialog/oauth
+            tokenName: oauth_token
+            authenticationScheme: query
+            clientAuthenticationScheme: form
+            resource:
+              userInfoUri: https://graph.facebook.com/me
+
+server:
+  port: 8090

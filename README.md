@@ -2,7 +2,7 @@
 
 Demo Facebook Sign In Application built on SpringBoot
 <br>
-[![](https://i.ytimg.com/an_webp/kW9u2jNjEDw/mqdefault_6s.webp?du=3000&sqp=CPyEwqEG&rs=AOn4CLBAhczD91RSR98xvoeviIK7Hgqs2g)](https://www.youtube.com/watch?v=qcz2jBLNOtc)
+[![](https://i.ytimg.com/vi/kW9u2jNjEDw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhqTkoOnxkjXCzAz-qr-KfSZJx9A)](https://www.youtube.com/watch?v=qcz2jBLNOtc)
 
 The server runs on Tomcat, on <http://localhost:8090>
 
